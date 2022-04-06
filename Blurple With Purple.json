@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "ArhynaH#9527",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "name": "Blurple With Purple",
         "updater": "https:\/\/raw.githubusercontent.com\/A-rhyna-H\/Blurple-With-Purple\/main\/Blurple%20With%20Purple.json"
     },
@@ -37,7 +37,6 @@
         "primary_dark_800": -15398351,
         "dim_foreground_material_light": -14873022,
         "transparent": 0,
-        "uikit_settings_item_text_color_dark": -6781244,
         "primary_dark_360": -6781244
     },
     "drawable_tints": {
