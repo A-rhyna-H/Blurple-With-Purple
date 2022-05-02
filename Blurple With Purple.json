@@ -1,12 +1,14 @@
 {
     "manifest": {
         "author": "ArhynaH#9527",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "name": "Blurple With Purple",
         "updater": "https:\/\/raw.githubusercontent.com\/A-rhyna-H\/Blurple-With-Purple\/main\/Blurple%20With%20Purple.json"
     },
     "background": {},
-    "fonts": {},
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/784158474761273374\/961678009218265249\/Comfortaa-Bold.ttf"
+    },
     "simple_colors": {
         "background": -15004610,
         "background_secondary": -15398351,
@@ -37,7 +39,8 @@
         "primary_dark_800": -15398351,
         "dim_foreground_material_light": -14873022,
         "transparent": 0,
-        "primary_dark_360": -6781244
+        "primary_dark_360": -6781244,
+        "primary_dark_330": -5994770
     },
     "drawable_tints": {
         "drawable_button_grey": -5994770,
